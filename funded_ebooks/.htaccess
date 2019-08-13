@@ -1,0 +1,8 @@
+<Files "time_limits.txt">
+     Order allow,deny
+     Deny from all
+</Files>
+<Files "count.txt">
+     Order allow,deny
+     Deny from all
+</Files>

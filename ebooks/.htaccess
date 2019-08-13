@@ -1,0 +1,8 @@
+<Files "ebooks.xml">
+     Order allow,deny
+     Deny from all
+</Files>
+<Files "count.txt">
+     Order allow,deny
+     Deny from all
+</Files>
